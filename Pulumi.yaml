@@ -1,0 +1,3 @@
+name: pulumi-github-test
+runtime: dotnet
+description: A minimal GitHub C# Pulumi program

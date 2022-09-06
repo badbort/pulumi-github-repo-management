@@ -1,0 +1,10 @@
+encryptionsalt: v1:1+O+UIH97r0=:v1:tDLHA+EbRjGyAPRO:O/E04sgZkYNje11Rr1+2q4L1Vjs1Pw==
+config:
+  github:owner: bortington
+  github:token:
+    secure: v1:gknRi6lVkuJie3FL:AYW4rOH1Nww9N1yVGjIghfG/urqdrlOkGjhCkmKXpCx6uNVIwZAKt+ba4TNms0icFNYHppwrqII=
+  pulumi-github-test:githubOrg: bortington
+  pulumi-github-test:rac_management_subscription_id: bd8e250a-66a6-4038-acd8-0d6aced3e3c8
+  pulumi-github-test:repo_app_tenant_id: 26aa7ec7-96f9-4fda-a56c-b330c975f800
+  pulumi-github-test:repos_path: C:\Alek\Personal\pulumi-github-repos\repos.yaml
+  pulumi-github-test:team_slug: fred
