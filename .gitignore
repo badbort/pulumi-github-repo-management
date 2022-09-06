@@ -15,6 +15,7 @@
 
 # Pulumi state
 .pulumi
+Pulumi.*.yaml
 
 # Mono auto generated files
 mono_crash.*
